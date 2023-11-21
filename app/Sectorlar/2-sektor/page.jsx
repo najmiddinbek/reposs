@@ -5,8 +5,6 @@ import { BsChevronDown, BsChevronUp } from "react-icons/bs"
 import Link from "next/link"
 import Navbar from '../../../components/Navbar';
 import RemoveBtn from '../../../components/RemoveBtn';
-import Tahrirlash from "../../../components/Tahrirlash"
-import { HiPencilAlt } from "react-icons/hi";
 
 const getTopics = async () => {
     try {

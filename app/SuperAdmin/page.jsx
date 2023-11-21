@@ -336,13 +336,13 @@ const Filter = () => {
                         ))}
                         <div className="max-w-[1000px] w-full mx-auto mt-20 mb-5">
                             <div className="flex flex-col">
-                                <p className="text-3xl poppins font-bold mb-2">Eng ko'p qo'shilgan sinf:</p>
+                                <p className="text-3xl poppins font-bold mb-2">Eng ko`p qo`shilgan sinf:</p>
                                 <p className="poppins">{mostFrequentSinfi}</p>
                             </div>
                         </div>
                         <div className="max-w-[1000px] w-full mx-auto mt-20 mb-5">
                             <div className="flex flex-col">
-                                <p className="text-3xl poppins font-bold mb-2">Eng ko'p dars qoldirgan sinf:</p>
+                                <p className="text-3xl poppins font-bold mb-2">Eng ko`p dars qoldirgan sinf:</p>
                                 <p className="poppins">{mostFrequentClass}</p>
                             </div>
                         </div>
